@@ -1,7 +1,7 @@
 ## Run the commands in the following order
 ```bash
     1- git clone https://github.com/HanieFZ1379/postgres-kafka-project.git
-    2- cd MiniProject_02
+    2- cd postgres-kafka-project
     3- docker compose -f ./docker-compose.yml up -d
     4- docker exec -it kafka-broker bash
     5- cd /codes/
